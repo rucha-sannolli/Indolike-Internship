@@ -10,5 +10,4 @@ This repository contains projects completed during my Indolike Internship.
 
 2. [Sales Trend Analysis](./Sales_Trend_Analysis)
    - Seasonal sales trends
-   - Anomaly detection
    - Regional & category insights
